@@ -279,6 +279,11 @@ publishTime: 该谣言被举报时间
 
 **39\. cocoNLP:** [github](https://github.com/fighting41love/cocoNLP)
 
+**40\. 中文实体情感知识库:** [github](https://github.com/rainarch/SentiBridge)
+
+**41\. 中文对话情感分析数据集:** [github](https://github.com/z17176/Chinese_conversation_sentiment)
+
+
 人名、地址、邮箱、手机号、手机归属地 等信息的抽取，rake短语抽取算法。
 > pip install cocoNLP
 
