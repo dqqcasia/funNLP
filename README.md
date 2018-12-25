@@ -285,6 +285,8 @@ publishTime: 该谣言被举报时间
 
 **41\. 中文突发事件语料库:** [github](https://github.com/shijiebei2009/CEC-Corpus)
 
+**42\. 中文近义词工具包:** [github](https://github.com/huyingxi/Synonyms)
+
 人名、地址、邮箱、手机号、手机归属地 等信息的抽取，rake短语抽取算法。
 > pip install cocoNLP
 
